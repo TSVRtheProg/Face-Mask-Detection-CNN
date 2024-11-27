@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Welcome to the Face Mask Detection project! This innovative project utilizes Convolutional Neural Networks (CNN) to accurately identify whether individuals in images are wearing face masks. In an era where health and safety are paramount, this project aims to contribute to public safety measures by leveraging the power of deep learning.
+Welcome to the Face Mask Detection project! This significant approaches use Convolutional Neural Networks (CNN) to properly detect whether persons in photos are wearing face masks. In an era where safety and health are critical, our project intends to contribute to improving public safety by using the potential of deep learning.
 
 
 ## Objective
