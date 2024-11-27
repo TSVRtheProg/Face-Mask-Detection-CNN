@@ -22,4 +22,6 @@ Deployment: Deploy the model for real-time face mask detection, integrating it w
 
 This Face Mask Detection project demonstrates the effectiveness of Convolutional Neural Networks in solving real-world problems. The high accuracy achieved during validation indicates that this model can be reliably used in practical applications, contributing to public health and safety.
 
+---
+
 # Artificial Intelligence: Because figuring out who wears a mask shouldn’t be rocket science! Keep calm and let the neural nets do the work
