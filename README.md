@@ -11,12 +11,18 @@ Welcome to the Face Mask Detection project! This innovative project utilizes Con
 The primary objective of this project is to develop a robust and accurate model that can classify images into two categories: 'Masked' and 'No Mask'. By achieving high accuracy and reliability, this model can be instrumental in various applications, from monitoring public spaces to ensuring compliance with health guidelines.
 
 ## Steps to Perform
-Data Collection: Gather a diverse dataset of images categorized into 'Masked' and 'No Mask' classes.
-Data Preprocessing: Perform data augmentation to enhance model generalization and preprocess the images for optimal training.
-Model Architecture: Design and implement a deep learning model using CNN with layers optimized for image classification tasks.
-Training the Model: Train the model on the preprocessed dataset, carefully tuning hyperparameters to achieve the best performance.
-Evaluation: Validate the model's accuracy and fine-tune it to ensure robustness against various image conditions.
-Deployment: Deploy the model for real-time face mask detection, integrating it with applications that can benefit from this technology.
+
+  - **Data Collection**: Gather a diverse dataset of images categorized into 'Masked' and 'No Mask' classes.
+    
+  - **Data Preprocessing**: Perform data augmentation to enhance model generalization and preprocess the images for optimal training.
+    
+  - **Model Architecture**: Design and implement a deep learning model using CNN with layers optimized for image classification tasks.
+    
+  - **Training the Model**: Train the model on the preprocessed dataset, carefully tuning hyperparameters to achieve the best performance.
+    
+  - **Evaluation**: Validate the model's accuracy and fine-tune it to ensure robustness against various image conditions.
+    
+  - **Deployment**: Deploy the model for real-time face mask detection, integrating it with applications that can benefit from this technology.
 
 ## Conclusion
 
